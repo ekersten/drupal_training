@@ -1,0 +1,20 @@
+name = Training
+description = Drupal Training Theme
+package = Training
+core = 7.x
+
+; styles
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/clean-blog.min.css
+
+; regions
+; regions[footer] = Footer
+
+; features
+; features[] = custom_feature
+
+; theme settings
+; settings[toggle_custom_feature] = 0
+
+; screenshot
+; screenshot = screenshot.png
